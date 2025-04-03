@@ -1,2 +1,1 @@
-# VLSI
-DFT | Scan Chain Insertion and Verification
+This project provides a complete working example of scan chain insertion and verification. It demonstrates how to design a scan‑enabled digital circuit, test it in both functional and test modes, and offers a starting point for further exploration into more advanced DFT flows.
